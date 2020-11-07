@@ -1,5 +1,12 @@
 @extends('layout.layout')
 @section('content')
+<div style="margin: 32px">
+    @if($errors->any())
+        @foreach($errors->all() as $error)
+            <li style="color: #e74c3c">{{$error}}</li>
+        @endforeach
+    @endif
+</div>
 <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
     @if (Route::has('login'))
         <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
@@ -14,7 +21,6 @@
             @endif
         </div>
     @endif
-
         <table>
             <tr>
                 <th>Brand</th>

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\StorePhoneRequest;
 use App\Models\Phone;
 use Illuminate\Http\Request;
 
@@ -23,7 +24,7 @@ class PhoneController extends Controller
         return view('create_phone');
     }
 
-    public function savePhone(Request $request) {
+    public function savePhone(StorePhoneRequest $request) {
         $phone = new Phone($request->all());
 
         $phone->save();
