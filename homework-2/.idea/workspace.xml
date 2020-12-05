@@ -24,6 +24,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fe1e91af-78e3-4e84-bb17-5de7b1b4fb7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../homework-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../midterm-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../midterm-1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,8 +163,9 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizz" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -197,6 +201,8 @@
       <workItem from="1602844473615" duration="5751000" />
       <workItem from="1605980285650" duration="13461000" />
       <workItem from="1605994651962" duration="71000" />
+      <workItem from="1607161137895" duration="8990000" />
+      <workItem from="1607179721738" duration="211000" />
     </task>
     <servers />
   </component>
@@ -213,36 +219,7 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602691578547">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602691578547" />
-    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605990469723">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605990469723" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602844933619">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602844933619" />
-    <state x="555" y="57" key="SettingsEditor" timestamp="1602700637379">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602700637379" />
-    <state x="486" y="184" key="refactoring.ChangeSignatureDialog" timestamp="1605990037010">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="486" y="184" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1605990037010" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1605990508655">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605990508655" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602691675589">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602691675589" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
