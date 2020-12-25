@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe1e91af-78e3-4e84-bb17-5de7b1b4fb7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/mail/mail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quizz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quizz/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +163,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -202,6 +203,10 @@
       <workItem from="1607179721738" duration="211000" />
       <workItem from="1608822455934" duration="1280000" />
       <workItem from="1608824216726" duration="10000" />
+      <workItem from="1608908095314" duration="865000" />
+      <workItem from="1608908993152" duration="11312000" />
+      <workItem from="1608920359425" duration="131000" />
+      <workItem from="1608920545791" duration="694000" />
     </task>
     <servers />
   </component>
@@ -225,7 +230,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/app/Http/Controllers/PostController.php</url>
-          <line>19</line>
+          <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
