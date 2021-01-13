@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50ff284f-2f50-4ff3-a212-922534e8962b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../final/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/resources/views/layout/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/resources/views/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +149,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework-2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework-3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -172,6 +178,8 @@
       <workItem from="1607179936711" duration="525000" />
       <workItem from="1607189839842" duration="34000" />
       <workItem from="1608822432903" duration="18000" />
+      <workItem from="1610369336067" duration="5030000" />
+      <workItem from="1610471554976" duration="19000" />
     </task>
     <servers />
   </component>
